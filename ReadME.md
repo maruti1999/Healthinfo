@@ -1,4 +1,4 @@
-**Health_Advisor is a project aimed at providing digital health and healthcare solutions to benefit both individuals and health organizations. The objective is to enhance the care experience and improve health outcomes through advanced analytics. The project utilizes various tools such as Random Forest, ResNet, Logistic Regression, and Streamlit to achieve its goals.**
+**Healthinfo is a project aimed at providing digital health and healthcare solutions to benefit both individuals and health organizations. The objective is to enhance the care experience and improve health outcomes through advanced analytics. The project utilizes various tools such as Random Forest, ResNet, Logistic Regression, and Streamlit to achieve its goals.**
 
 The project offers several key features that address different aspects of health and medical diagnosis:
 
@@ -10,8 +10,8 @@ The project offers several key features that address different aspects of health
 
 **4. Pneumonia Detection:** This feature allows users to upload a chest X-ray image of a patient. The system analyzes the image and determines whether the patient is likely to have pneumonia. This capability facilitates early identification of the condition, leading to prompt treatment and better patient outcomes.
 
-The impact of Health_Advisor is multifaceted. It aims to improve healthcare by leveraging technology to provide accurate and timely diagnosis, enabling more effective treatment and care. By offering these digital health solutions, the project strives to improve the lives of individuals by empowering them with accessible and reliable health information. Additionally, Health_Advisor aims to bridge the gap between technology and health, leveraging advanced analytics to enhance the healthcare experience for both patients and healthcare providers.
+The impact of Healthinfo is multifaceted. It aims to improve healthcare by leveraging technology to provide accurate and timely diagnosis, enabling more effective treatment and care. By offering these digital health solutions, the project strives to improve the lives of individuals by empowering them with accessible and reliable health information. Additionally, Healthinfo aims to bridge the gap between technology and health, leveraging advanced analytics to enhance the healthcare experience for both patients and healthcare providers.
 
-The project includes a demo version that showcases the various features and functionalities, allowing users to interact with and experience the benefits of the Health_Advisor system firsthand.
+The project includes a demo version that showcases the various features and functionalities, allowing users to interact with and experience the benefits of the Healthinfo system firsthand.
 
-In summary, Health_Advisor is a comprehensive digital health and healthcare solution that utilizes machine learning algorithms, image analysis, and user input to provide disease diagnosis, early detection of diabetes and liver diseases, and pneumonia detection. By offering these features, the project contributes to improving healthcare, enhancing lives, and merging technology with the healthcare domain.
+In summary, Healthinfo is a comprehensive digital health and healthcare solution that utilizes machine learning algorithms, image analysis, and user input to provide disease diagnosis, early detection of diabetes and liver diseases, and pneumonia detection. By offering these features, the project contributes to improving healthcare, enhancing lives, and merging technology with the healthcare domain.
